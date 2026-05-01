@@ -7,7 +7,7 @@ An executive-level financial and clinical dashboard for hospital readmission ana
 To provide clinical and financial leadership with a visual "end product" that identifies bottlenecks in revenue collection and hospital readmission patterns.
 
 ## 📊 Live Dashboard
-[Link to your Looker Studio/Tableau Dashboard here]
+[https://colab.research.google.com/drive/1I7lIIIOmbDKhREb8qzI-BFVu49cquhri#scrollTo=0dc0f5c7]
 
 ## 🛠️ Tech Stack
 - **Python/Pandas:** Data simulation and cleaning.
